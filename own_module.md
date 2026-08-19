@@ -1,4 +1,4 @@
-# Part E: Creating Your Own Module
+# Creating Your Own Module
 
 ## Aim
 
